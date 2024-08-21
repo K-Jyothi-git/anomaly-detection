@@ -25,3 +25,10 @@ The project uses **machine learning techniques**, specifically **XGBoost**, to t
 
 ---
 
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/anomaly-detection.git
+cd anomaly-detection
